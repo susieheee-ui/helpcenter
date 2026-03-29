@@ -1,0 +1,4 @@
+interface:
+  display_name: "Helpcenter Doc Writing"
+  short_description: "Draft and refine customer-facing help center docs"
+  default_prompt: "Use $helpcenter-doc-writing to draft or refine a customer-facing help center article for my admin platform."
